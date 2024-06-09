@@ -4,7 +4,7 @@ Presto is a distributed SQL query engine for big data.
 
 See the [User Manual](https://prestodb.github.io/docs/current/) for deployment instructions and end user documentation.
 
-## Requirements
+## Requirements test
 
 * Mac OS X or Linux
 * Java 8 Update 151 or higher (8u151+), 64-bit. Both Oracle JDK and OpenJDK are supported.
